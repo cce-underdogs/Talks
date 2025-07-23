@@ -9,4 +9,5 @@
 
 # Speakers
 * [EricccTaiwan](https://github.com/EricccTaiwan) (Cheng-Yang Chou)
+
 * [charliechiou](https://github.com/charliechiou) (Po-Ying Chiu)
