@@ -8,5 +8,5 @@
 * 開源人年會 COSCUP 2025 講者。講題: 「[藉由 `sched_ext` 實作客製化 Linux CPU 排程器](https://pretalx.coscup.org/coscup-2025/talk/WN9RDZ/)」
 
 # Speakers
-* [EricccTaiwan](https://github.com/EricccTaiwan)
-* [charliechiou](https://github.com/charliechiou)
+* [EricccTaiwan](https://github.com/EricccTaiwan) (Cheng-Yang Chou)
+* [charliechiou](https://github.com/charliechiou) (Po-Ying Chiu)
