@@ -11,3 +11,6 @@
 * [＠EricccTaiwan](https://github.com/EricccTaiwan) (Cheng-Yang Chou)
 
 * [@charliechiou](https://github.com/charliechiou) (Po-Ying Chiu)
+
+# Notes 📔
+* [Linux 核心專題: 探討 sched_ext 及機器學習](https://hackmd.io/@cce-underdogs/scx_project)
