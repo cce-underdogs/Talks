@@ -5,7 +5,7 @@
 
 * [2025 年 Linux 核心設計課程期末展示 (上)](https://youtu.be/Ae0jVIDCycU?t=4546) & [Slides](https://www.slideshare.net/slideshow/2025-linux-sched_ext-pdf/281093837)
 
-* 開源人年會 COSCUP 2025 講者。講題: 「[藉由 `sched_ext` 實作客製化 Linux CPU 排程器](https://pretalx.coscup.org/coscup-2025/talk/WN9RDZ/)」
+* 開源人年會 [@COSCUP](https://github.com/COSCUP) 2025 講者。講題: 「[藉由 `sched_ext` 實作客製化 Linux CPU 排程器](https://pretalx.coscup.org/coscup-2025/talk/WN9RDZ/)」
 
 # Speakers 🎤
 * [＠EricccTaiwan](https://github.com/EricccTaiwan) (Cheng-Yang Chou)
