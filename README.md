@@ -1,5 +1,5 @@
 # Talks 🐧
-* [《Kafka 相關饅頭營》線上研討會]( https://www.facebook.com/share/p/1Hno2QwcTT/)。講題: 「[Building a Custom Linux CPU Scheduler with `sched_ext`](https://www.youtube.com/watch?v=wk-qzWtVzAg&t=12032s)」 & [Slides](https://www.slideshare.net/slideshow/building-a-custom-linux-cpu-scheduler-with-sched_ext-pdf/281093739)
+* [《Kafka 相關饅頭營》線上研討會](https://www.facebook.com/share/p/1Hno2QwcTT/)。講題: 「[Building a Custom Linux CPU Scheduler with `sched_ext`](https://www.youtube.com/watch?v=wk-qzWtVzAg&t=12032s)」 & [Slides](https://www.slideshare.net/slideshow/building-a-custom-linux-cpu-scheduler-with-sched_ext-pdf/281093739)
 
 * OSS-NA 2025: [Improve Load Balancing with Machine Learning Techniques based on `sched_ext` Framework - Jim Huang, National Cheng Kung University](https://ossna2025.sched.com/event/1zffn/improve-load-balancing-with-machine-learning-techniques-based-on-the-schedext-framework-jim-huang-national-cheng-kung-university) & [Slides](https://static.sched.com/hosted_files/ossna2025/d2/Improve-Load-Balancing-With-Machine-Learning-Techniques-based-on-sched_ext.pdf)
 
