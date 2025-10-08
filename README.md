@@ -1,4 +1,6 @@
 # Talks 🐧
+* [KaLUG 2510 meetup - kernel 遇上 user space](https://luma.com/h543c8se)
+
 * [GDG Kaohsiung](https://gdg.community.dev/gdg-kaohsiung/) TOOCON 2025。講題:「藉由 `sched_ext` 實作客製化 Linux CPU 排程器」
 
 * 開源人年會 [@COSCUP](https://github.com/COSCUP) 2025 講者。講題: 「[藉由 `sched_ext` 實作客製化 Linux CPU 排程器](https://pretalx.coscup.org/coscup-2025/talk/WN9RDZ/)」 & Slides
